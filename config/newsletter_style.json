@@ -1,0 +1,26 @@
+{
+  "newsletter_name": "The Weekly Brief",
+  "sender_name": "Newletter Bot",
+  "sender_email": "sarthak.rawal.mail@gmail.com",
+  "subject_prefix": "This Weeks Hotshot: ",
+  "footer_tagline": "Curated insights, delivered to your inbox.",
+  "model": "google/gemini-2.5-pro",
+
+  "colors": {
+    "primary": "#1a1a2e",
+    "accent": "#e94560",
+    "secondary": "#16213e",
+    "background": "#f8f9fa",
+    "text": "#212529",
+    "muted": "#6c757d",
+    "stat_card_bg": "#1a1a2e",
+    "stat_card_text": "#ffffff",
+    "stat_card_accent": "#e94560",
+    "chart_palette": ["#e94560", "#0f3460", "#533483", "#e94560", "#16213e"]
+  },
+
+  "fonts": {
+    "body": "Georgia, 'Times New Roman', serif",
+    "heading": "Arial, Helvetica, sans-serif"
+  }
+}

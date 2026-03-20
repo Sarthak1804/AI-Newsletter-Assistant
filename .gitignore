@@ -1,0 +1,22 @@
+# Secrets — NEVER commit these
+.env
+credentials.json
+token.json
+
+# Temporary generated files
+.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

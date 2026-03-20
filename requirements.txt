@@ -1,0 +1,15 @@
+requests
+python-dotenv
+anthropic
+openai
+google-genai
+matplotlib
+seaborn
+Pillow
+jinja2
+premailer
+html2text
+google-auth
+google-auth-oauthlib
+google-api-python-client
+python-dateutil
